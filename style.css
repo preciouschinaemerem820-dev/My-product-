@@ -69,7 +69,7 @@ section{
 .hero{
     position: relative;
     height: 100vh;
-    background-image: url('/asset/Shutterstock.jpg');
+    background-image: url('Shutterstock.jpg');
     background-position: cover;
     background-repeat: no-repeat;
     background-size: 100%;
